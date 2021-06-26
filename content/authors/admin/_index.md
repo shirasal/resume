@@ -71,4 +71,4 @@ Ecologist, data analyst, public speaker.
 I have a strong connection to the sea and the natural world around us. Nature fascinates me and I enjoy using data to explore this world and have meaningful insights on the environment and its inhabitants. I believe that communicating scientific insights through graphical and visual tools helps connecting people with science and nature.
 At the moment I work part-time as an ecologist in HaMaarag, which performs ecological monitoring across Israel, estimating the country's state of nature. I also offer data wrangling services and I teach university courses and lectures.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
