@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Sort and manipulate data, validation and analysis
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
+- description: Marine science fieldwork and data analysis experience
+  icon: fish
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Marine science
+- description: Teaching courses and giving lectures to a wide variety of audiences
+  icon: chalkboard-teacher
   icon_pack: fas
-  name: Photography
+  name: Public speaking
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
