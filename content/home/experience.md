@@ -53,7 +53,7 @@ experience:
     company: Israel Nature and Parks Authority
     company_url: 'https://www.parks.org.il/en/'
     # company_logo: org-gc
-    location: ''
+    # location: ''
     date_start: '2015-01-01'
     date_end: ''
     description: Creation and development of various educational and popular-scientific materials that are marine conservation orientated.
@@ -80,16 +80,16 @@ experience:
     company: Israel Nature and Parks Authority
     company_url: 'https://www.parks.org.il/en/'
     # company_logo: org-gc
-    location: ''
+    # location: ''
     date_start: '2007-07-01'
     date_end: '2019-12-31'
     description: Alongside school field trip guiding, I also guided long-term ecological and environmental educational projects, developed educational materials and created presentations and lectures.
 
   - title: Recreational Fishing Surveyor
     company: Israel’s Recreational Fishing Survey
-    company_url: ''
+    # company_url: ''
     # company_logo: org-gc
-    location: ''
+    # location: ''
     date_start: '2016-12-01'
     date_end: '2018-04-01'
     description: Fishing survey to estimate the impact of recreational fishing on the marine environment in Israel. Interviewed fishermen during beach surveys for data collection and input.
