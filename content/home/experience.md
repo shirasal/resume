@@ -25,7 +25,7 @@ experience:
   - title: Projects Ecologist
     company: HaMaarag
     company_url: 'http://www.hamaarag.org.il/en'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Tel Aviv, Israel
     date_start: '2020-11-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Research Assistant
     company: HaMaarag
     company_url: 'http://www.hamaarag.org.il/en'
-    company_logo: org-x
+    # company_logo: org-x
     location: Tel Aviv, Israel
     date_start: '2020-07-01'
     date_end: '2020-10-31'
@@ -49,7 +49,7 @@ experience:
   - title: Teaching Assistant
     company: School of Zoology, Tel Aviv University
     company_url: 'https://www.ims.tau.ac.il/Tal/Syllabus/Syllabus_L.aspx?lang=EN&course=0455180901&year=2020&req=31032afb78229c0ddf595d6a732223ad2eb72a7e5c36aee8945d9e794c276515&caller='
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Tel Aviv, Israel
     date_start: '2019-10-01'
     date_end: '2020-09-30'
