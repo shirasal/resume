@@ -66,8 +66,9 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ecologist, data analyst, public speaker.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have a strong connection to the sea and the natural world around us. Nature fascinates me and I enjoy using data to explore this world and have meaningful insights on the environment and its inhabitants. I believe that communicating scientific insights through graphical and visual tools helps connecting people with science and nature.
+At the moment I work part-time as an ecologist in HaMaarag, which performs ecological monitoring across Israel, estimating the country's state of nature. I also offer data wrangling services and I teach university courses and lectures.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
